@@ -1,6 +1,6 @@
 ---
 name: hello-world
-description: A simple skill that responds with "Hello, World!" when invoked.
+description: A simple skill that responds when "Hello, World!" is typed by the user.
 ---
 
 # Hello World
