@@ -8,7 +8,7 @@ Use the `hello-world` skill to get a friendly greeting whenever the user types t
 Follow all steps below in order.
 
 ## Step 1 — Gather System Info
-Run the PowerShell script located at `.github/skills/hello-world/scripts/Get-SystemInfo.ps1` to retrieve system and user information. Use the output to enrich your greeting.
+Run the PowerShell script located at `.github/skills/hello-world/scripts/Get-CurrentUser.ps1` to retrieve system and user information. Use the output to enrich your greeting.
 
 ## Step 2 — Find the User's Gravatar
 Run the PowerShell script located at `.github/skills/hello-world/scripts/Get-Gravatar.ps1` to:
